@@ -1,5 +1,14 @@
+<!-- Tittle -->
 <h1 align="center">Hi 👋, I'm Adam setiadi</h1>
 <h3 align="center">Junior Web Development</h3>
+<!-- About me -->
+
+## About me 👦
+
+- 🔭 I am a student from Bale Bandung University
+- 🌱 My age 22 years.
+- ✨ My inspiration is to be someone who is the best in the world of technology
+- 📫 How to reach me **adamsetiadijr07@gmail.com**
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
