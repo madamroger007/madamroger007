@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adam setiadi</h1>
 <h3 align="center">Junior Web Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madamroger007&label=Profile%20views&color=0e75b6&style=flat" alt="madamroger007" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madamroger007" alt="madamroger007" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -19,8 +15,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/adamsetiadijr07"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adamsetiadijr07" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madamroger007&show_icons=true&locale=en&layout=compact" alt="madamroger007" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madamroger007&show_icons=true&locale=en" alt="madamroger007" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madamroger007&" alt="madamroger007" /></p>
