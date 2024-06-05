@@ -55,7 +55,7 @@
 
 
    <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madamroger007&bg_color=000&layout=pie"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madamroger007&&theme=transparent&layout=pie"/>
    <br>
    <br>
 
