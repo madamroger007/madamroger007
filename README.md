@@ -1,7 +1,8 @@
 <div align="center" >
+ <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co.com/Lrw7cmd/1.png">
  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://i.ibb.co.com/4pNh6h9/2.png">
-  
+  </picture>
 </div>
 
 
