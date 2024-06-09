@@ -1,6 +1,9 @@
 <meta name="description" content="GitHub profile in blue color">
 <meta name="keywords" content="Full Stack Developer, GitHub Stats, GitHub Profile, JavaScript, TypeScript, React, Nodejs, HTML5, CSS3, Bootstrap, Python, C#, C++, C, Java, PHP, PostgreSQL, MySQL, MongoDB"/>
-
+<!-- Palestine -->
+<a href='https://github.com/Safouene1/support-palestine-banner'>
+  <img src='https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg' alt='Support Palestine' width='100%' />
+</a>
 <!-- Deskripsi profile -->
 
 <div style="display: inline_block" align="center">
@@ -8,7 +11,7 @@
        <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=header"/>
    </a>
 
-   <br>
+   <br/>
 <!--- BgHero--->
 <div align="center" >
  <picture>
